@@ -23,6 +23,11 @@ Também tenho uma <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a
 * 🗞 Já organizei uma publicação independente sobre arte e literatura com alguns amigos, o zine Farpa
 * 🎧 Fundei e geri por quase um ano uma loja online de equipamentos de áudio, a <a href='https://www.instagram.com/chifi_br/' target='_blank'>loja ChiFi</a>, e um blog sobre audiofilia, o <a href='https://www.instagram.com/mundinhohifi/' target='_blank'>Mundinho Hi-Fi</a>
 
+## Me contate, adoraria ouvir mais de você
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/diego-de-carvalho)
+&nbsp;
+📧 diegolaurentinoc@gmail.com
+
 <!--
 **diego-analytics/diego-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

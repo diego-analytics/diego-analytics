@@ -8,7 +8,7 @@ Trabalho principalmente com Python e SQL para desenvolver análises exploratóri
 
 Eu fui considerado [Melhor Aluno (Categoria Geral)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 
-Também tenho uma <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>certificação de Analista de Dados Google emitido pelo Coursera</a> e vários outros cursos (você pode conferir meu currículo completo <a href='https://github.com/diego-analytics/diego-analytics/blob/arquivos/Curriculo-Diego-de-Carvalho.pdf' target='_blank'>clicando aqui</a>.)
+Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e vários outros cursos (você pode conferir meu currículo completo <a href='https://github.com/diego-analytics/diego-analytics/blob/arquivos/Curriculo-Diego-de-Carvalho.pdf' target='_blank'>clicando aqui</a>.)
 
 *I'm also a very good english reader and listener. In the writing department I manage myself just fine!* 
 

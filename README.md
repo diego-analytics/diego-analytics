@@ -10,7 +10,7 @@ Eu fui considerado [Melhor Aluno (Categoria Geral)](https://github.com/diego-ana
 
 Também tenho uma <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>certificação de Analista de Dados Google emitido pelo Coursera</a> e vários outros cursos (você pode conferir meu currículo completo <a href='https://github.com/diego-analytics/diego-analytics/blob/arquivos/Curriculo-Diego-de-Carvalho.pdf' target='_blank'>clicando aqui</a>.)
 
-*I'm also a very good english reader and listener!* 
+*I'm also a very good english reader and listener. In the writing department I manage myself just fine!* 
 
 
 <p align='center'>

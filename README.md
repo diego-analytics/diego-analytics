@@ -2,7 +2,7 @@
 
 **Eu me chamo Diêgo e sou analista de dados. É um prazer te ter por aqui!** 😊
 
-Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL. Também crio dashboards no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que nos damos bem há anos.
+Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL. Também crio dashboards no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
 
 Eu fui considerado [Melhor Aluno (Categoria Geral)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 

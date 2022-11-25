@@ -14,16 +14,16 @@ Também tenho uma <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a
 
 * 📊 <a href='https://github.com/diego-analytics/projetos_dados/blob/main/README.md' target='_blank'>Aqui você pode dar uma olhada nos meus projetos analisando dados</a>
 * 💫 [Aqui tem um banco de dados relacional](https://github.com/diego-analytics/universe-sql) com corpos celestes semi-ficcionais que criei para uma certificação do freeCodeCamp
-* 🎼 Eu tentei criar uma _drum machine_(ou máquina de ritmos) para montar batidas musicais, vê só [o resultado](https://github.com/diego-analytics/drum_machine)
+* 🎼 Eu tentei criar uma _drum machine_ (ou máquina de ritmos) para montar batidas musicais, vê só [o resultado](https://github.com/diego-analytics/drum_machine)
 * 📜 Transformei também um poema meu em um site utilizando HTML, CSS e JavaScript, se gosta de poesia <a href='https://diego-analytics.github.io/Eu-quero-que-voce-ria-EM-BITS/' target='_blank'>vale a pena conferir</a>
 
 **Outros fatos sobre mim:**
 
 * 🪙 Tenho graduação em Ciências econômicas pela Universidade Federal de Pernambuco (Turma de 2018)
 * 📖 Sou mestre em Teoria da Literatura pela mesma instituição (~~por essa você não esperava~~) e amo ler
-* 🗞 Já organizei uma publicação independente sobre arte e literatura com alguns amigos, o zine Farpa
 * 🎧 Fundei e geri por quase um ano uma loja online de equipamentos de áudio, a <a href='https://www.instagram.com/chifi_br/' target='_blank'>loja ChiFi</a>, e um blog sobre audiofilia, o <a href='https://www.instagram.com/mundinhohifi/' target='_blank'>Mundinho Hi-Fi</a>
-* 🏋️‍♂️Sou meio [*gym nerd*](https://www.urbandictionary.com/define.php?term=gym%20nerd), mas meu esporte do coração é o surfe
+* 🗞 Já organizei uma publicação independente sobre arte e literatura com alguns amigos, o zine Farpa
+* 🏋️‍♂️ Sou meio [*gym nerd*](https://www.urbandictionary.com/define.php?term=gym%20nerd), mas meu esporte do coração é o surfe
 
 ## Me contate, adoraria ouvir mais de você
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/diego-de-carvalho)

@@ -1,4 +1,6 @@
-# Olá, pessoa!👋 Boas-vindas!
+<p align='center'>
+  <h1> Olá, pessoa!👋 Boas-vindas! </h1>
+</p>
 
 **Eu me chamo Diêgo e sou analista de dados. É um prazer te ter por aqui!** 😊
 
@@ -10,12 +12,22 @@ Também tenho uma <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a
 
 *I'm also a very good english reader and listener!* 
 
- **Mas chega de falar, vem conferir um pouco do meu trabalho:**
+
+<p align='center'>
+  <b>Mas chega de falar, vem conferir um pouco do meu trabalho:</b>
+</p>
+
 
 * 📊 <a href='https://github.com/diego-analytics/projetos_dados/blob/main/README.md' target='_blank'>Aqui você pode dar uma olhada nos meus projetos analisando dados</a>
 * 💫 [Veja aqui um banco de dados relacional](https://github.com/diego-analytics/universe-sql) com corpos celestes semi-ficcionais que criei para uma certificação do freeCodeCamp
 * 🎼 Eu tentei criar uma _drum machine_ (ou máquina de ritmos) para montar batidas musicais, [vê só o resultado](https://github.com/diego-analytics/drum_machine)
 * 📜 Transformei também um poema meu em um site utilizando HTML, CSS e JavaScript, se gosta de poesia <a href='https://diego-analytics.github.io/Eu-quero-que-voce-ria-EM-BITS/' target='_blank'>vale a pena conferir</a>
+
+
+<b>Linguagens em que já me aventurei:</b>
+
+
+[![Minhas habilidades](https://skills.thijs.gg/icons?i=py,postgres,r,mysql,html,css,js)](https://skills.thijs.gg)
 
 **Outros fatos sobre mim:**
 

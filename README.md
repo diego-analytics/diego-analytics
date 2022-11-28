@@ -36,9 +36,13 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
 | Curso | Lugar | Ano |
 | :---: | :---: | :---: |
 | Introduction to Power BI | DataCamp | 2022 |
+| Intermediate SQL Queries | DataCamp | 2022 |
 | Data Analysis in Excel | DataCamp | 2021 |
-|
-|
+| Intermediate Python | DataCamp | 2021 |
+| Google Data Analytics | Coursera | 2021 |
+| Critical Thinking Skills for University Success | Coursera | 2020 |
+  
+</details>
 
 **Outros fatos sobre mim:**
 
@@ -54,18 +58,3 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
 &nbsp;
 📧 diegolaurentinoc@gmail.com
 📲 [WhatsApp](//wa.me/558195210137)
-
-<!--
-**diego-analytics/diego-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

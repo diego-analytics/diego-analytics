@@ -51,7 +51,7 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
 * 📖 Sou mestre em Teoria da Literatura pela mesma instituição (~~por essa você não esperava~~) e amo ler
 * 🎧 Fundei e geri por quase um ano uma loja online de equipamentos de áudio, a <a href='https://www.instagram.com/chifi_br/' target='_blank'>loja ChiFi</a>, e um blog sobre audiofilia, o <a href='https://www.instagram.com/mundinhohifi/' target='_blank'>Mundinho Hi-Fi</a>
 * 🗞 Já organizei uma publicação independente sobre arte e literatura com alguns amigos, o zine Farpa
-* 🏋️‍♂️ Sou meio [*gym nerd*](https://www.urbandictionary.com/define.php?term=gym%20nerd), mas meu esporte do coração é o surfe
+* 🏋️‍♂️ Sou meio [*gym nerd*](https://www.urbandictionary.com/define.php?term=gym%20nerd), mas meu esporte do coração é o surfe (vai, brazilian storm! 🏆)
 
 ## Me contate, adoraria ouvir mais de você
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/diego-de-carvalho)

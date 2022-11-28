@@ -8,7 +8,7 @@ Trabalho principalmente com Python e SQL para desenvolver análises exploratóri
 
 Eu fui considerado [Melhor Aluno (Categoria Geral)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 
-Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e fiz vários outros cursos relacionados a dados (você pode conferir meu currículo completo <a href='https://github.com/diego-analytics/diego-analytics/blob/arquivos/Curriculo-Diego-de-Carvalho.pdf' target='_blank'>clicando aqui</a> e [aqui meu LinkedIn](https://www.linkedin.com/in/diego-de-carvalho/).)
+Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e fiz vários outros cursos relacionados a dados (você pode conferir [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).)
 
 *I'm also a very good english reader and listener. In the writing department I manage myself just fine!* 
 
@@ -29,8 +29,20 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
 
 [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,postgres,r,mysql,html,css,js)](https://skills.thijs.gg)
 
+<!--START_SECTION:table-->
+<details>
+<summary>Cursos que já fiz</summary>
+  
+| Curso | Lugar | Ano |
+| :---: | :---: | :---: |
+| Introduction to Power BI | DataCamp | 2022 |
+| Data Analysis in Excel | DataCamp | 2021 |
+|
+|
+
 **Outros fatos sobre mim:**
 
+* 🍍 Sou originário da cidadezinha de [Pombos](https://pt.wikipedia.org/wiki/Pombos_(Pernambuco)), no interior de Pernambuco, conhecida como "[A terra do abacaxi](https://pt.wikipedia.org/wiki/Festa_do_Abacaxi)"
 * 🪙 Tenho graduação em Ciências econômicas pela Universidade Federal de Pernambuco (Turma de 2018)
 * 📖 Sou mestre em Teoria da Literatura pela mesma instituição (~~por essa você não esperava~~) e amo ler
 * 🎧 Fundei e geri por quase um ano uma loja online de equipamentos de áudio, a <a href='https://www.instagram.com/chifi_br/' target='_blank'>loja ChiFi</a>, e um blog sobre audiofilia, o <a href='https://www.instagram.com/mundinhohifi/' target='_blank'>Mundinho Hi-Fi</a>

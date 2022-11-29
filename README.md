@@ -8,7 +8,23 @@ Trabalho principalmente com Python e SQL para desenvolver análises exploratóri
 
 Eu fui considerado [Melhor Aluno (Categoria Geral)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 
-Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e fiz vários outros cursos relacionados a dados (você pode conferir [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).)
+Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e fiz vários outros cursos relacionados a dados. Você pode conferir alguns abaixo ou visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).
+
+<!--START_SECTION:table-->
+<details>
+<summary>Cursos que já fiz</summary>
+  
+| Curso | Lugar | Ano |
+| :---: | :---: | :---: |
+| Introduction to Power BI | DataCamp | 2022 |
+| Intermediate SQL Queries | DataCamp | 2022 |
+| Data Analysis in Excel | DataCamp | 2021 |
+| Intermediate Python | DataCamp | 2021 |
+| Google Data Analytics | Coursera | 2021 |
+| Critical Thinking Skills for University Success | Coursera | 2020 |
+  
+</details>
+
 
 *I'm also a very good english reader and listener. In the writing department I manage myself just fine!* 
 
@@ -29,20 +45,6 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
 
 [![Minhas habilidades](https://skills.thijs.gg/icons?i=py,postgres,r,mysql,html,css,js)](https://skills.thijs.gg)
 
-<!--START_SECTION:table-->
-<details>
-<summary>Cursos que já fiz</summary>
-  
-| Curso | Lugar | Ano |
-| :---: | :---: | :---: |
-| Introduction to Power BI | DataCamp | 2022 |
-| Intermediate SQL Queries | DataCamp | 2022 |
-| Data Analysis in Excel | DataCamp | 2021 |
-| Intermediate Python | DataCamp | 2021 |
-| Google Data Analytics | Coursera | 2021 |
-| Critical Thinking Skills for University Success | Coursera | 2020 |
-  
-</details>
 
 **Outros fatos sobre mim:**
 

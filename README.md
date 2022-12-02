@@ -36,6 +36,7 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
 
 * 📊 <a href='https://github.com/diego-analytics/projetos_dados/blob/main/README.md' target='_blank'>Aqui você pode dar uma olhada nos meus projetos analisando dados</a>
 * 💫 [Veja aqui um banco de dados relacional](https://github.com/diego-analytics/universe-sql) com corpos celestes semi-ficcionais que criei para uma certificação do freeCodeCamp
+* 🤓 Participei de uma live no Instagram com o pessoal da Practicum falando sobre minha decisão de seguir uma carreira em dados e minha perspectiva como aluno, você pode assistir [clicando aqui](https://www.instagram.com/tv/Ch50MwIoxf2/?utm_source=ig_web_copy_link)
 * 🎼 Eu tentei criar uma _drum machine_ (ou máquina de ritmos) para montar batidas musicais, com Python e PyGame, [vê só o resultado](https://github.com/diego-analytics/drummy)
 * 📜 Transformei também um poema meu em um site utilizando HTML, CSS e JavaScript, se gosta de poesia <a href='https://diego-analytics.github.io/Eu-quero-que-voce-ria-EM-BITS/' target='_blank'>vale a pena conferir</a>
 

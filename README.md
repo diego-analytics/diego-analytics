@@ -45,7 +45,7 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
 <b>Linguagens em que já me aventurei:</b>
 
 
-[![Minhas habilidades](https://skills.thijs.gg/icons?i=py,postgres,r,mysql,html,css,js)](https://skills.thijs.gg)
+[![Minhas habilidades](https://skillicons.dev/icons?i=py,postgres,r,mysql,html,css,js)](https://skillicons.dev/)
 
 
 **Outros fatos sobre mim:**

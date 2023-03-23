@@ -25,6 +25,7 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
   
 </details>
 
+Atualmente, sou analista de mídias sociais e presto serviço como freelance para um coletivo de comunicação recifense, o Lumi. Adoro aplicar meus conhecimentos analíticos para produzir relatórios sobre a eficácia das estratégias de marketing, propor ajustes e novas abordagens. Faço a ligação entre os objetivos dos clientes e metas concretas para acompanhamento.
 
 *I'm also a very good english reader and listener. In the writing department I manage myself just fine!* 
 

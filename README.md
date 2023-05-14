@@ -2,20 +2,22 @@
   <h1> Olá, pessoa!👋 Boas-vindas! </h1>
 </p>
 
-**Eu me chamo Diêgo e sou analista de dados. É um prazer te ter por aqui!** 😊
+**Eu me chamo Diêgo e sou analista de marketing. É um prazer te ter por aqui!** 😊
 
-Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL. Também crio dashboards no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
+Meu ponto forte é usar Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL. Também crio dashboards e relatórios no Looker (Google Data Studio), no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
 
 Eu fui considerado [Melhor Aluno (Módulos 1 e 2)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 
-Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e fiz vários outros cursos relacionados a dados. Você pode conferir alguns abaixo ou visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).
+Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e fiz vários outros cursos relacionados a dados e marketing digital. Você pode conferir alguns abaixo ou visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).
 
 <!--START_SECTION:table-->
 <details>
-<summary>Cursos que já fiz</summary>
+<summary>Alguns cursos que já fiz</summary>
   
 | Curso | Lugar | Ano |
 | :---: | :---: | :---: |
+| Gestão de Mídias Sociais | Rock University | 2023 |
+| Marketing no Instagram | Rock University | 2023 |
 | Introduction to Power BI | DataCamp | 2022 |
 | Intermediate SQL Queries | DataCamp | 2022 |
 | Data Analysis in Excel | DataCamp | 2021 |
@@ -25,7 +27,7 @@ Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-
   
 </details>
 
-Atualmente, sou analista de mídias sociais e presto serviço como freelance para um coletivo de comunicação recifense, o Lumi. Adoro aplicar meus conhecimentos analíticos para produzir relatórios sobre a eficácia das estratégias de marketing, propor ajustes e novas abordagens. Faço a ligação entre os objetivos dos clientes e metas concretas para acompanhamento.
+Atualmente, sou analista de mídias sociais freelance, trabalhando principalmente com construção civil. Adoro aplicar meus conhecimentos analíticos para produzir relatórios sobre a eficácia das estratégias de marketing, propor ajustes e novas abordagens. Faço a ligação entre os objetivos dos clientes e metas concretas para acompanhamento.
 
 *I'm also a very good english reader and listener. In the writing department I manage myself just fine!* 
 
@@ -43,10 +45,10 @@ Atualmente, sou analista de mídias sociais e presto serviço como freelance par
 * 📜 Transformei também um poema meu em um site utilizando HTML, CSS e JavaScript, se gosta de poesia <a href='https://diego-analytics.github.io/Eu-quero-que-voce-ria-EM-BITS/' target='_blank'>vale a pena conferir</a>
 
 
-<b>Linguagens em que já me aventurei:</b>
+<b>Linguagens e ferramentas em que já me aventurei:</b>
 
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=py,postgres,r,mysql,html,css,js)](https://skillicons.dev/)
+[![Minhas habilidades](https://skillicons.dev/icons?i=py,postgres,instagram,r,mysql,bash,html,css,js,git,solidity,vscode)](https://skillicons.dev/)
 
 
 **Outros fatos sobre mim:**
@@ -62,4 +64,4 @@ Atualmente, sou analista de mídias sociais e presto serviço como freelance par
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/diego-de-carvalho)
 &nbsp;
 📧 diegolaurentinoc@gmail.com
-📲 [WhatsApp](//wa.me/558195210137)
+📲 [WhatsApp](//wa.me/5581971000394)

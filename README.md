@@ -1,19 +1,18 @@
 <p align='center'>
-  <h1>Olá, eu sou Diêgo -<br> um analista de marketing decidido a ajudar empresas a otimizarem suas estratégias com dados.</h1>
+  <h1>Olá, eu sou Diêgo -<br> um analista de marketing decidido a ajudar empresas a otimizarem suas vendas com dados.</h1>
+  <h2>É um prazer te ter por aqui!😊</h2>
 </p>
-
-**É um prazer te ter por aqui!** 😊
 
 📱 Trabalho como **analista e gestor de mídias sociais**<br>
 📚 Faço graduação em **marketing**<br>
 💰 Sou bacharel em **economia** (UFPE - 2018)<br>
-📈 Certificado Profissional de **Analista de Dados do Google**<br>
+📈 [Certificado Profissional de **Analista de Dados do Google**](https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile)<br>
 
-Meu ponto forte é usar Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL. Também crio dashboards e relatórios no Looker (Google Data Studio), no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
+Meu ponto forte é usar Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL ([Confira alguns projetos aqui](https://github.com/diego-analytics/projetos_dados/blob/main/README.md)). Também crio dashboards e relatórios no Looker (Google Data Studio), no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
 
-Eu fui considerado [Melhor Aluno (Módulos 1 e 2)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
+Eu fui considerado [Melhor Aluno (Módulos 1 e 2)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso, eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 
-Também tenho um <a href='https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile' target='_blank'>Certificado Profissional Análise de dados do Google</a> e fiz vários outros cursos relacionados a dados e marketing digital. Você pode conferir alguns abaixo ou visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).
+Fiz vários cursos relacionados a dados e marketing digital. Você pode conferir alguns abaixo ou visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).
 
 <!--START_SECTION:table-->
 <details>
@@ -59,7 +58,6 @@ Atualmente, sou analista de mídias sociais freelance, trabalhando principalment
 **Outros fatos sobre mim:**
 
 * 🍍 Sou originário da cidadezinha de [Pombos](https://pt.wikipedia.org/wiki/Pombos_(Pernambuco)), no interior de Pernambuco, conhecida como "[A terra do abacaxi](https://pt.wikipedia.org/wiki/Festa_do_Abacaxi)"
-* 🪙 Tenho graduação em Ciências econômicas pela Universidade Federal de Pernambuco (Turma de 2018)
 * 📖 Sou mestre em Teoria da Literatura pela mesma instituição (~~por essa você não esperava~~) e amo ler
 * 🎧 Fundei e geri por quase um ano uma loja online de equipamentos de áudio, a <a href='https://www.instagram.com/chifi_br/' target='_blank'>loja ChiFi</a>, e um blog sobre audiofilia, o <a href='https://www.instagram.com/mundinhohifi/' target='_blank'>Mundinho Hi-Fi</a>
 * 🗞 Já organizei uma publicação independente sobre arte e literatura com alguns amigos, o zine Farpa

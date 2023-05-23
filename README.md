@@ -1,8 +1,13 @@
 <p align='center'>
-  <h1> Olá, pessoa!👋 Boas-vindas! </h1>
+  <h1>Olá, eu sou Diêgo -<br> um analista de marketing decidido a ajudar empresas a otimizarem suas estratégias com dados.</h1>
 </p>
 
-**Eu me chamo Diêgo e sou analista de marketing. É um prazer te ter por aqui!** 😊
+**É um prazer te ter por aqui!** 😊
+
+📱 Trabalho como **analista e gestor de mídias sociais**<br>
+📚 Faço graduação em **marketing**<br>
+💰 Sou bacharel em **economia** (UFPE - 2018)<br>
+📈 Certificado Profissional de **Analista de Dados do Google**<br>
 
 Meu ponto forte é usar Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL. Também crio dashboards e relatórios no Looker (Google Data Studio), no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
 

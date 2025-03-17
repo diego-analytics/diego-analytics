@@ -1,16 +1,16 @@
 <p align='center'>
-  <h1>Olá, eu sou Diêgo -<br> um analista de marketing decidido a ajudar empresas a otimizarem suas vendas com dados.</h1>
+  <h1>Olá, eu sou Diêgo -<br> um analista decidido a ajudar empresas a otimizarem suas operações com dados.</h1>
   <h2>É um prazer te ter por aqui!😊</h2>
 </p>
 
-📱 Trabalho como **analista e gestor de mídias sociais**<br>
-📚 Faço graduação em **marketing**<br>
-💰 Sou bacharel em **economia** (UFPE - 2018)<br>
+📱 Trabalho com **CX e otimização de processos de atendimento**<br>
+📚 Faço pós-graduação em **planejamento estratégico**<br>
+💰 Sou bacharel em **economia** (UFPE - 2019)<br>
 📈 [Certificado Profissional de **Analista de Dados do Google**](https://www.credly.com/badges/5ecb6d63-ada7-4978-a62a-63671666f84a?source=linked_in_profile)<br>
 
-Meu ponto forte é usar Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL ([Confira alguns projetos aqui](https://github.com/diego-analytics/projetos_dados/blob/main/README.md)). Também crio dashboards e relatórios no Looker (Google Data Studio), no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
+Meu ponto forte é usar Excel, Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL ([Confira alguns projetos aqui](https://github.com/diego-analytics/projetos_dados/blob/main/README.md)). Também crio dashboards e relatórios no Looker (Google Data Studio), no Tableau e me viro bem com Power BI. Se aplicar um PROCX por "Excel" na minha vida vai descobrir que temos uma relação há anos.
 
-Eu fui considerado [Melhor Aluno (Módulos 1 e 2)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da Practicum by Yandex. No curso, eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
+Eu fui considerado [Melhor Aluno (Módulos 1 e 2)](https://github.com/diego-analytics/diego-analytics/blob/main/best%20student.jpg) do Bootcamp de Analista de Dados da TripleTen Brasil (anterior Practicum by Yandex). No curso, eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), suas aplicações para resolver problemas de negócios, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 
 Fiz vários cursos relacionados a dados e marketing digital. Você pode conferir alguns abaixo ou visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/diego-de-carvalho/).
 
@@ -20,18 +20,17 @@ Fiz vários cursos relacionados a dados e marketing digital. Você pode conferir
   
 | Curso | Lugar | Ano |
 | :---: | :---: | :---: |
-| Gestão de Mídias Sociais | Rock University | 2023 |
-| Marketing no Instagram | Rock University | 2023 |
+| Excel Avançado | Udemy | 2025 |
+| Effective Sales – An Overview | FIA Business School | 2024 |
 | Introduction to Power BI | DataCamp | 2022 |
 | Intermediate SQL Queries | DataCamp | 2022 |
 | Data Analysis in Excel | DataCamp | 2021 |
 | Intermediate Python | DataCamp | 2021 |
 | Google Data Analytics | Coursera | 2021 |
-| Critical Thinking Skills for University Success | Coursera | 2020 |
   
 </details>
 
-Atualmente, sou analista de mídias sociais freelance, trabalhando principalmente com construção civil. Adoro aplicar meus conhecimentos analíticos para produzir relatórios sobre a eficácia das estratégias de marketing, propor ajustes e novas abordagens. Faço a ligação entre os objetivos dos clientes e metas concretas para acompanhamento.
+Atualmente, trabalhando com Customer Experiência na construção civil. Adoro aplicar meus conhecimentos analíticos para produzir relatórios que ajudem a criar estratégias para otimizar a satisfação dos consumidores, propor ajustes e novas abordagens. Faço a ligação entre os objetivos da gestão e métricas concretas para acompanhamento, com base nos dados dos CRMs Dynamics e Construtor Vendas (CV).
 
 *I'm also a very good english reader and listener. In the writing department I manage myself just fine!* 
 

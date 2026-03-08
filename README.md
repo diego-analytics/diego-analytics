@@ -3,7 +3,7 @@
   <h2>É um prazer te ter por aqui!😊</h2>
 </p>
 
-📱 Trabalho com **análises e estratégias para otimização de operações de receita**<br> (RevOps, Sales Ops, CX Ops e CS Ops)
+📱 Trabalho com **análises e estratégias para otimização de operações de receita**<br> (RevOps, Sales Ops, CX Ops e CS Ops)<br>
 🎓 Atualmente cursando **Modelagem Quantitativa pela Wharton Online**<br>
 📚 Pós-graduado em **planejamento estratégico**<br>
 💰 Bacharel em **economia** (UFPE)<br>
